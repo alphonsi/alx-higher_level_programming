@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 python3 -m compileall -b $PYFILE
+=======
+python3 -m py_compile my_main.py
+>>>>>>> f774a36c0b8a4ed3e362035cc43be47a8f5f50dc
